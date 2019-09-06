@@ -105,7 +105,7 @@
                         		app.celular = '';
                        		    app.motivo = '';
                         		app.comentario = ''; 
-            					this.formActualizar = false;
+            					app.formActualizar  = false;
         				 	})
 					 }
                          
